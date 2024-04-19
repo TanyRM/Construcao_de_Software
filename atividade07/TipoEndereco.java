@@ -2,8 +2,9 @@ package atividade07;
 
 import java.util.List;
 
-public class Bairro {
-    private String nome;
-    public Cidade cidade;
+public enum TipoEndereco {
+    COMERCIAL,
+    RESIDENCIAL;
+
     public List<Endereco> enderecos;
 }
