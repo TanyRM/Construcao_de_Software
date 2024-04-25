@@ -6,17 +6,15 @@ public class Classe1 {
 
     public int dividir(int num1, int num2) throws ArithmeticException, InputMismatchException {
 
-        try {
-            if (num2 == 0) {
-                throw new ArithmeticException("Divisão por zero não é permitida.");
-            }
-            return num1 / num2;
-        } catch (ArithmeticException e) {
-            System.out.println("Erro: " + e.getMessage());
-        } catch (InputMismatchException e) {
-            System.out.println("Erro: Valor informado não é numérico.");
+        if (num2 == 0) {
+            throw new ArithmeticException("Divisão por zero não é permitida.");
+        } else if (!(eInt(num1)) || !(eInt(num2))) {
+            throw new InputMismatchException("Valor informado não é numérico.");
         }
+        return num1 / num2;
+    }
 
-        return -1;
+    private boolean eInt(int valor){
+        return valor >= Integer.MIN_VALUE && valor <= Integer.MAX_VALUE;
     }
 }
