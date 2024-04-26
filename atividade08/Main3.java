@@ -11,7 +11,7 @@ public class Main3 {
             System.out.println(login.fazerLogin("Taniele", "12345"));
 
         } catch (LoginInvalidoException e) {
-            System.out.println(e.getMessage());
+            System.out.println("Usuario ou senha invalidos");
         }
     }
 }
