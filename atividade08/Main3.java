@@ -1,7 +1,7 @@
 package atividade08;
 
 public class Main3 {
-    public static void main(String[] args) throws LoginInvalidoException {
+    public static void main(String[] args) {
 
         Login login = new Login("Taniele", "123456");
 
