@@ -21,6 +21,8 @@ public class Main1 {
 
         } catch (InputMismatchException e) {
             System.out.println("O valor informado não é numérico");
+        } catch (ArithmeticException e) {
+            System.out.println("Divisão por 0 não permitida");
         }
     }
 }
