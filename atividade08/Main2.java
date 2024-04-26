@@ -12,7 +12,7 @@ public class Main2 {
         Classe2 classe2 = new Classe2();
         int numero, i=0;
 
-            try {
+        try {
             do {
                 System.out.println("Digite um numero: ");
                 numero = scan.nextInt();
@@ -20,13 +20,14 @@ public class Main2 {
                 i++;
             } while (numero != 0);
 
-            System.out.println(Arrays.toString(classe2.valores));
-
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Erro: " + e.getMessage());
-        } catch (
-        InputMismatchException e) {
-            System.out.println("Erro: Valor informado não é numérico. ");
+            System.out.println("Indice acima do tamanho do array");
+
+        } catch (InputMismatchException e) {
+            System.out.println("Valor informado não é numérico. ");
+
+        } finally {
+            System.out.println(Arrays.toString(classe2.valores));
         }
     }
 }
