@@ -1,4 +1,4 @@
-package atividade08;
+package atividade08.questao2;
 
 public class Classe2 {
 

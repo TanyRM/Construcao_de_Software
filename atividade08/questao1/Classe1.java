@@ -1,4 +1,4 @@
-package atividade08;
+package atividade08.questao1;
 
 import java.util.InputMismatchException;
 

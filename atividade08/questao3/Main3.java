@@ -1,4 +1,4 @@
-package atividade08;
+package atividade08.questao3;
 
 public class Main3 {
     public static void main(String[] args) {
