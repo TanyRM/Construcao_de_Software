@@ -1,3 +1,13 @@
-    O texto "Principios para produzir um código bonito", que pode ser encontrado em <profissionaisti.com.br/principios-para-produzir-um-codigo-bonito/>, usado como referência na aula de construção de software tem como ideia principal a visão de programação como uma forma de arte. O autor argumenta que que durante a construção de umm software os desenvolvedores não devem se preocupar apenas com a funcionalidade daquele código mas também com a aparência daquele código.
-    No texto também é citado que muitas pessoas correm da necessidade de trabalhar em um código feio o que muitas vezes acaba gerando o desenvolvimento HDD, Desenvolvimento Orientado a Ódio que é uma reação a códigos ruins mas que não deve se tornar um costume. Ao invés disso um bom desenvolvedor deve se esforçar para criar códigos bonitos, que promovam a integridade, usabilidade, a inovação e a simplicidade.
-    Para finalizar, não existe uma definição correta e única de código bonito, mas o autor explica que o uso correto desses principios pode ajudar na criação de códigos mais elegantes e sustentáveis que podem ser reutilizados e retrabalhados num futuro por outras pessoas. O autor finaliza deixando uma reflexão aos desenvolvedores, colocando a questão da qualidade do código como resultado de profissionalismo.
+    O texto "Principios para produzir um código bonito", que pode ser encontrado em <profissionaisti.com.br/principios-para-produzir-um-codigo-bonito/>, 
+usado como referência na aula de construção de software tem como ideia principal a visão de programação como uma forma de arte. O autor argumenta que que durante a
+construção de umm software os desenvolvedores não devem se preocupar apenas com a funcionalidade do código mas também com a aparência daquele código.
+    No texto também é citado que muitas pessoas correm da necessidade de trabalhar em um código feio o que muitas vezes acaba gerando o desenvolvimento HDD,
+Desenvolvimento Orientado a Ódio que é uma reação a códigos ruins mas que não deve se tornar um costume. Ao invés disso um bom desenvolvedor deve se esforçar para
+criar códigos bonitos, que promovam a integridade, usabilidade, a inovação e a simplicidade.
+    Para finalizar, não existe uma definição correta e única de código bonito, mas o autor explica que o uso correto desses principios pode ajudar na criação de
+códigos mais elegantes e sustentáveis que podem ser reutilizados e retrabalhados num futuro por outras pessoas. O autor finaliza deixando uma reflexão aos 
+desenvolvedores, colocando a questão da qualidade do código como resultado de profissionalismo.
+    Sobre meus conhecimenntos prévios do assunto abordado no texto, já sabia que um código bonito é um elemento importante na qualidade do software e que boas 
+práticas são responsáveis por essa "beleza" que também ajuda na manutenção de um código, já que facilitam quando outros desenvolvedores precisam realizar 
+modificações nesse sistema. Os pontos que foram novidade para mim durante a leitura do artigo são principalmente os que dizem respeito ao desenvolvimento orientado
+a ódio e quais os principios que levam um desenvolvedor a alcançar essa qualidade referente a beleza de um código.
